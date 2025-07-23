@@ -3,9 +3,9 @@
 This is a responsive landing page for an online bike store.
 The project was built from scratch to practice modern frontend development.
 
-![View mockup on Figma](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+- [View mockup on Figma](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
-![Demo](img_1.png)
+- [Demo](img_1.png)
 
 ## 🔧 Technologies
 
